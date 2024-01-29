@@ -8,7 +8,7 @@ I tried two different approaches:
 
 The best results of the two approaches (measured in AUC) are the following:
 
-| |Public Score | Private Score |
+| |Private Score | Public Score |
 |---|---|---|
 |BERT large| 0.585034 | 0.690580 | 
 |DistilBERT| 0.680852 | 0.813387  | 
